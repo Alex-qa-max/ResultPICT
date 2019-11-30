@@ -1,0 +1,85 @@
+Brand	Mount	Built-in microphone	Video resolution
+Razer	Clothespin	Yes	1280x1024
+Defender	Desktop	No	FullHD (1920x1080)
+Genius	Universal	Yes	FullHD (1920x1080)
+Microsoft	Clothespin	No	4K (4096 x 2160)
+Logitech	Universal	No	HD (1280x720)
+REAL-EL	Desktop	Yes	4K (4096 x 2160)
+OMEGA	Universal	Yes	VGA (640x480)
+REAL-EL	Universal	No	1600x1200
+Microsoft	Desktop	Yes	1600x1200
+Logitech	Clothespin	Yes	FullHD (1920x1080)
+Logitech	Desktop	No	VGA (640x480)
+REAL-EL	Clothespin	No	VGA (640x480)
+SVEN	Clothespin	Yes	HD (1280x720)
+Trust	Desktop	No	HD (1280x720)
+Defender	Clothespin	Yes	1600x1200
+REAL-EL	Desktop	Yes	FullHD (1920x1080)
+Trust	Clothespin	Yes	VGA (640x480)
+MAXXTER	Clothespin	No	1600x1200
+A4Tech	Universal	No	4K (4096 x 2160)
+Gembird	Desktop	No	1280x1024
+Avonic	Desktop	No	VGA (640x480)
+Logitech	Universal	No	4K (4096 x 2160)
+OMEGA	Clothespin	No	FullHD (1920x1080)
+SVEN	Universal	No	4K (4096 x 2160)
+Defender	Universal	Yes	4K (4096 x 2160)
+OMEGA	Desktop	Yes	1600x1200
+Trust	Universal	No	4K (4096 x 2160)
+A4Tech	Clothespin	Yes	1280x1024
+Gembird	Clothespin	Yes	FullHD (1920x1080)
+OMEGA	Universal	Yes	4K (4096 x 2160)
+A4Tech	Desktop	No	HD (1280x720)
+OMEGA	Clothespin	No	HD (1280x720)
+Trust	Universal	Yes	1280x1024
+Gembird	Universal	Yes	1600x1200
+Razer	Desktop	No	FullHD (1920x1080)
+Genius	Clothespin	No	1600x1200
+Razer	Universal	Yes	HD (1280x720)
+Gemix	Clothespin	No	1600x1200
+Genius	Desktop	Yes	HD (1280x720)
+A4Tech	Desktop	No	VGA (640x480)
+Genius	Universal	No	1280x1024
+Microsoft	Universal	Yes	HD (1280x720)
+Logitech	Desktop	Yes	1280x1024
+MAXXTER	Desktop	Yes	FullHD (1920x1080)
+Gemix	Universal	Yes	HD (1280x720)
+Gemix	Desktop	No	FullHD (1920x1080)
+Razer	Clothespin	No	4K (4096 x 2160)
+Avonic	Universal	Yes	FullHD (1920x1080)
+Avonic	Clothespin	Yes	HD (1280x720)
+Gembird	Universal	No	4K (4096 x 2160)
+Gemix	Clothespin	Yes	1280x1024
+Defender	Clothespin	Yes	VGA (640x480)
+Trust	Clothespin	No	FullHD (1920x1080)
+Razer	Desktop	No	VGA (640x480)
+Avonic	Desktop	No	4K (4096 x 2160)
+Defender	Clothespin	Yes	HD (1280x720)
+MAXXTER	Universal	No	VGA (640x480)
+SVEN	Desktop	Yes	FullHD (1920x1080)
+MAXXTER	Desktop	Yes	HD (1280x720)
+Genius	Clothespin	Yes	VGA (640x480)
+A4Tech	Desktop	No	1600x1200
+SVEN	Desktop	No	VGA (640x480)
+SVEN	Universal	No	1600x1200
+Gembird	Universal	No	VGA (640x480)
+SVEN	Clothespin	No	1280x1024
+Trust	Desktop	Yes	1600x1200
+Avonic	Desktop	Yes	1600x1200
+Microsoft	Universal	Yes	FullHD (1920x1080)
+Logitech	Clothespin	No	1600x1200
+Genius	Desktop	Yes	4K (4096 x 2160)
+MAXXTER	Universal	Yes	4K (4096 x 2160)
+REAL-EL	Universal	No	1280x1024
+Gembird	Desktop	No	HD (1280x720)
+Razer	Universal	No	1600x1200
+A4Tech	Universal	Yes	FullHD (1920x1080)
+Defender	Clothespin	Yes	1280x1024
+Microsoft	Clothespin	No	VGA (640x480)
+REAL-EL	Universal	No	HD (1280x720)
+Gemix	Clothespin	No	VGA (640x480)
+MAXXTER	Desktop	Yes	1280x1024
+Gemix	Universal	Yes	4K (4096 x 2160)
+OMEGA	Clothespin	No	1280x1024
+Avonic	Universal	Yes	1280x1024
+Microsoft	Universal	No	1280x1024
